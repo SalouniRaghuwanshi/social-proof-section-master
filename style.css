@@ -1,0 +1,75 @@
+@import url('https://fonts.google.com/specimen/Spartan');
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    
+    font-family: Spartan; 
+    margin: 0;
+    padding: 0;
+}
+.img1{
+    
+    height: 30vw;
+    width: 40vw;
+    position:absolute;
+}
+.img2{
+    transform: translate(40vw);
+    height: 47vw;
+    position: fixed;
+}
+.box{
+    padding: 0%;
+    color:hsl(300, 43%, 22%);
+    font-size: 3.4vw;
+    width: 28vw;
+    margin-top: 8vw;
+    margin-left: 15vw;
+    position:absolute;
+    font-weight: 400, 500, 700;
+}
+.text{
+    color: hsl(303, 10%, 53%);
+    font-size: 1.2vw;
+}
+.star{
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+    position: absolute;
+    margin-top: 10vw;
+    margin-left: 60vw; 
+    font-size: 1vw; 
+}
+.star1{
+    background-color: hsl(300, 24%, 96%);
+    width: 27vw;
+    padding: 1vw;
+    padding-left: 2vw;
+    color:hsl(300, 43%, 22%);
+}
+.rat2{
+    margin-top: 1vw;
+    margin-left: 2.3vw;
+}
+.rat3{
+    margin-top: 1vw;
+    margin-left: 4.6vw;
+}
+.para1{
+    height: 1vw;
+}
+.para{
+    padding-left: 1.5vw;
+}
+.box1{
+    background-color: hsl(300, 43%, 22%);
+    width: 20vw;
+    color: white;
+    margin-top: 30vw;
+    position: absolute;
+    
+}
