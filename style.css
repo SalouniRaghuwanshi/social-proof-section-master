@@ -17,8 +17,7 @@ body{
     position:absolute;
 }
 .img2{
-    transform: translate(40vw);
-    height: 47vw;
+    margin-left: 34vw;
     position: fixed;
 }
 .box{
@@ -68,8 +67,29 @@ body{
 .box1{
     background-color: hsl(300, 43%, 22%);
     width: 20vw;
-    color: white;
-    margin-top: 30vw;
+    color: hsl(300, 24%, 96%);
+    margin-top: 27vw;
     position: absolute;
-    
+    margin-left: 15vw;
+    padding: 2vw;
+    font-size: vwvw;
+    border-radius: 5%;
 }
+.img3{
+    border-radius: 50%;
+    height: 3.5vw;
+}
+.dis{
+    display: flex;
+}
+.text{
+    padding-left: 1vw;
+    font-size: 1vw;
+}
+.text1{
+    color: white;
+}
+.text2{
+    color:  hsl(333, 80%, 67%);
+}
+
