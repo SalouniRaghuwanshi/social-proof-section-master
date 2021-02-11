@@ -18,10 +18,10 @@ body{
 }
 .img2{
     
-   height: 45vw;
+   height: 41vw;
    margin-left: 34vw;
   position: absolute;
-  margin-top: 1vw;
+  margin-top: 5.6vw;
 }
 .box{
     padding: 0%;
@@ -124,8 +124,9 @@ body{
     width: 50vw;
 }
 .img2{
-    position:fixed;
-}
+    height: 43vw;
+   position: absolute;
+   margin-top: 230vw;}
 .box{
     color:hsl(300, 43%, 22%);
     font-size: 8vw;
@@ -136,9 +137,9 @@ body{
 }
 .f1{
     color: hsl(303, 10%, 53%);
-    font-size: 4.5vw;
+    font-size: 4.4vw;
     width: 75vw;
-    margin-left: -10vw;
+    margin-left: -3vw;
 }
 .star{
     display: flex;
@@ -157,15 +158,15 @@ body{
     text-align: center;
 }
 .rat1{
-    margin-left: 2vw;
+    margin-left: 3vw;
 }
 .rat2{
     margin-top: 3vw;
-    margin-left: 2vw;
+    margin-left: 3vw;
 }
 .rat3{
     margin-top: 4vw;
-    margin-left: 2vw;
+    margin-left: 3vw;
 }
 .s1{
 padding-left: 25vw;
